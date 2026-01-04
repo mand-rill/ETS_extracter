@@ -1,0 +1,6 @@
+# ETS_extracter
+自动提取E听说中学口语部分题目&amp;答案
+
+`python extract_ets_data.py X`
+
+X 为题目的字典序
